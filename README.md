@@ -18,3 +18,7 @@ ros2 run basic_pub dummy_publisher.py
 and 
 
 ros2 run basic_sub dummy_subscriber.py
+
+
+ROS2 Tutorial Slides
+https://docs.google.com/presentation/d/1YmQeWBmcJCj01quu2YCau38kMh84twNEXW8uXu-jKzQ/edit#slide=id.g2751e4fd4e3_0_34 
