@@ -1,0 +1,39 @@
+[0.023s] Invoking command in '/home/neil/Tutorial/ros_toot/build/basic_pub': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/neil/Tutorial/ros_toot/build/basic_pub -- -j8 -l8
+[0.091s] Built target ament_cmake_python_copy_basic_pub
+[0.610s] running egg_info
+[0.629s] writing basic_pub.egg-info/PKG-INFO
+[0.630s] writing dependency_links to basic_pub.egg-info/dependency_links.txt
+[0.630s] writing top-level names to basic_pub.egg-info/top_level.txt
+[0.684s] reading manifest file 'basic_pub.egg-info/SOURCES.txt'
+[0.685s] writing manifest file 'basic_pub.egg-info/SOURCES.txt'
+[0.772s] Built target ament_cmake_python_build_basic_pub_egg
+[0.788s] Invoked command in '/home/neil/Tutorial/ros_toot/build/basic_pub' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/neil/Tutorial/ros_toot/build/basic_pub -- -j8 -l8
+[0.824s] Invoking command in '/home/neil/Tutorial/ros_toot/build/basic_pub': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/neil/Tutorial/ros_toot/build/basic_pub
+[0.835s] -- Install configuration: ""
+[0.835s] -- Up-to-date: /home/neil/Tutorial/ros_toot/install/basic_pub/share/basic_pub/environment/pythonpath.sh
+[0.835s] -- Up-to-date: /home/neil/Tutorial/ros_toot/install/basic_pub/share/basic_pub/environment/pythonpath.dsv
+[0.835s] -- Up-to-date: /home/neil/Tutorial/ros_toot/install/basic_pub/local/lib/python3.10/dist-packages/basic_pub-0.0.0-py3.10.egg-info
+[0.835s] -- Installing: /home/neil/Tutorial/ros_toot/install/basic_pub/local/lib/python3.10/dist-packages/basic_pub-0.0.0-py3.10.egg-info/top_level.txt
+[0.836s] -- Installing: /home/neil/Tutorial/ros_toot/install/basic_pub/local/lib/python3.10/dist-packages/basic_pub-0.0.0-py3.10.egg-info/PKG-INFO
+[0.836s] -- Installing: /home/neil/Tutorial/ros_toot/install/basic_pub/local/lib/python3.10/dist-packages/basic_pub-0.0.0-py3.10.egg-info/SOURCES.txt
+[0.836s] -- Installing: /home/neil/Tutorial/ros_toot/install/basic_pub/local/lib/python3.10/dist-packages/basic_pub-0.0.0-py3.10.egg-info/dependency_links.txt
+[0.836s] -- Up-to-date: /home/neil/Tutorial/ros_toot/install/basic_pub/local/lib/python3.10/dist-packages/basic_pub
+[0.836s] -- Up-to-date: /home/neil/Tutorial/ros_toot/install/basic_pub/local/lib/python3.10/dist-packages/basic_pub/__init__.py
+[0.873s] Listing '/home/neil/Tutorial/ros_toot/install/basic_pub/local/lib/python3.10/dist-packages/basic_pub'...
+[0.880s] -- Installing: /home/neil/Tutorial/ros_toot/install/basic_pub/lib/basic_pub/dummy_publisher.py
+[0.880s] -- Up-to-date: /home/neil/Tutorial/ros_toot/install/basic_pub/share/ament_index/resource_index/package_run_dependencies/basic_pub
+[0.880s] -- Up-to-date: /home/neil/Tutorial/ros_toot/install/basic_pub/share/ament_index/resource_index/parent_prefix_path/basic_pub
+[0.880s] -- Up-to-date: /home/neil/Tutorial/ros_toot/install/basic_pub/share/basic_pub/environment/ament_prefix_path.sh
+[0.881s] -- Up-to-date: /home/neil/Tutorial/ros_toot/install/basic_pub/share/basic_pub/environment/ament_prefix_path.dsv
+[0.881s] -- Up-to-date: /home/neil/Tutorial/ros_toot/install/basic_pub/share/basic_pub/environment/path.sh
+[0.881s] -- Up-to-date: /home/neil/Tutorial/ros_toot/install/basic_pub/share/basic_pub/environment/path.dsv
+[0.881s] -- Up-to-date: /home/neil/Tutorial/ros_toot/install/basic_pub/share/basic_pub/local_setup.bash
+[0.881s] -- Up-to-date: /home/neil/Tutorial/ros_toot/install/basic_pub/share/basic_pub/local_setup.sh
+[0.881s] -- Up-to-date: /home/neil/Tutorial/ros_toot/install/basic_pub/share/basic_pub/local_setup.zsh
+[0.881s] -- Up-to-date: /home/neil/Tutorial/ros_toot/install/basic_pub/share/basic_pub/local_setup.dsv
+[0.881s] -- Up-to-date: /home/neil/Tutorial/ros_toot/install/basic_pub/share/basic_pub/package.dsv
+[0.881s] -- Up-to-date: /home/neil/Tutorial/ros_toot/install/basic_pub/share/ament_index/resource_index/packages/basic_pub
+[0.881s] -- Up-to-date: /home/neil/Tutorial/ros_toot/install/basic_pub/share/basic_pub/cmake/basic_pubConfig.cmake
+[0.882s] -- Up-to-date: /home/neil/Tutorial/ros_toot/install/basic_pub/share/basic_pub/cmake/basic_pubConfig-version.cmake
+[0.882s] -- Up-to-date: /home/neil/Tutorial/ros_toot/install/basic_pub/share/basic_pub/package.xml
+[0.884s] Invoked command in '/home/neil/Tutorial/ros_toot/build/basic_pub' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/neil/Tutorial/ros_toot/build/basic_pub
