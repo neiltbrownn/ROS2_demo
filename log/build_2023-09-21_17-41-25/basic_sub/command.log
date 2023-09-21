@@ -1,6 +1,0 @@
-Invoking command in '/home/neil/Tutorial/ros_toot/build/basic_sub': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/neil/Tutorial/ros_toot/src/basic_sub -DCMAKE_INSTALL_PREFIX=/home/neil/Tutorial/ros_toot/install/basic_sub
-Invoked command in '/home/neil/Tutorial/ros_toot/build/basic_sub' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/neil/Tutorial/ros_toot/src/basic_sub -DCMAKE_INSTALL_PREFIX=/home/neil/Tutorial/ros_toot/install/basic_sub
-Invoking command in '/home/neil/Tutorial/ros_toot/build/basic_sub': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/neil/Tutorial/ros_toot/build/basic_sub -- -j8 -l8
-Invoked command in '/home/neil/Tutorial/ros_toot/build/basic_sub' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/neil/Tutorial/ros_toot/build/basic_sub -- -j8 -l8
-Invoking command in '/home/neil/Tutorial/ros_toot/build/basic_sub': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/neil/Tutorial/ros_toot/build/basic_sub
-Invoked command in '/home/neil/Tutorial/ros_toot/build/basic_sub' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/neil/Tutorial/ros_toot/build/basic_sub
